@@ -1,3 +1,5 @@
+codecov:
+  token: fe38f18b-4146-45fe-bf84-f1d0a677a1df
 coverage:
   precision: 2
   round: down
@@ -7,7 +9,6 @@ coverage:
     project: no
     patch: yes
     changes: no
-
 comment:
   layout: "header, diff, changes, tree"
   behavior: default
