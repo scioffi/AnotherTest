@@ -1,3 +1,4 @@
 {
-    "asi": false
+    "asi": false,
+    "camelcase": true
 }
