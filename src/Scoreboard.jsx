@@ -17,7 +17,7 @@ const ScLogo = styled.img`
 
 class Scoreboard extends React.Component {
   constructor(props){
-    super(props);
+    super(props)
    
     this.state = {
       score: {
