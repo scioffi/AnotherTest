@@ -30,7 +30,7 @@ const App = () => {
           <ScDate>{today}</ScDate>
         </ScHeader>
           <hr />
-	    	<Scoreboard teams={["Mets", "Phillies"]} />
+	    	<Scoreboard teams={["Phillies", "Mets"]} />
       </ScBody>
 	);
 };
