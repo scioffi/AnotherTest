@@ -29,7 +29,7 @@ class Scoreboard extends React.Component {
           name: props.teams[1],
           runs: 0
         }
-      }}
+      }
     };
   }
 
